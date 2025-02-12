@@ -19,15 +19,16 @@ h1 {
     margin: 0;
 }
 
-h2{
+h2 {
     font-size: 1.125em;
     margin: 2em 0 0 0;
     color: #4e221d;
 }
 
-p{
+p {
     font-size: 0.875em;
 }
+
 #content {
     padding: 1.25em;
 }
