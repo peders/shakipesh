@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+    width: 496px;
+    background: #cc9966;
+    border: 0.0625em solid #4e221d;
+    margin: 2em auto;
+}
+
+h1 {
+    display: block;
+    height: 98px;
+    width: 496px;
+    background: url(heading.gif) no-repeat;
+    text-indent: -999999em;
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    font-size: 1.25em;
+    margin: 2em 0 0 0;
+    color: #4e221d;
+}
+
+p{
+    font-size: 0.875em;
+}
+#content {
+    padding: 1.25em;
+}
